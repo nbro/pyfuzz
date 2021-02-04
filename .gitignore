@@ -5,3 +5,4 @@
 *.orig
 pyfuzz-output.*.p*
 .coverage
+.idea
